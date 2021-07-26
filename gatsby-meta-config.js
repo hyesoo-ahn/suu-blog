@@ -1,9 +1,9 @@
 module.exports = {
-  title: `suu blog`,
+  title: `suu bloggggg`,
   description: `개발블로그~~`,
   author: `hyesoo`,
-  introduction: `프론트엔드 개발자 안혜수입니다!`,
-  siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
+  introduction: `프론트엔트 개발자 안혜수입니다!`,
+  siteUrl: `https://suulog.netlify.app`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
     github: `hyesoo-ahn`, // Your GitHub account
